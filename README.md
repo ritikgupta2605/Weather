@@ -1,6 +1,6 @@
 
 
- How to Run This Project
+### How to Run This Project
 Follow these steps to run the Weather Dashboard locally on your machine:
 
 1️⃣ Clone the Repository
