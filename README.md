@@ -3,10 +3,11 @@
 ### How to Run This Project
 Follow these steps to run the Weather Dashboard locally on your machine:
 
-###1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 First, download the project files by cloning the GitHub repository:
 
 git clone https://github.com/your-username/weather-dashboard.git
+
 Navigate to the project directory:
 
 cd weather-dashboard
@@ -21,6 +22,7 @@ npm install
 This project requires an API key from OpenWeatherMap.
 
 Sign up at OpenWeatherMap and generate an API key.
+
 Create a .env file in the project root and add:
 env
 
