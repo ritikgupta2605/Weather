@@ -39,8 +39,4 @@ Start the development server with:
 npm start
 The app will be available at: http://localhost:3000/
 
-🏗️ Build for Production
-To create an optimized production build, run:
-npm run build
 
-This will generate a build/ folder with optimized files.
