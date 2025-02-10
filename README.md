@@ -10,6 +10,7 @@ git clone https://github.com/your-username/weather-dashboard.git
 Navigate to the project directory:
 
 cd weather-dashboard
+
 2️⃣ Install Dependencies
 Ensure you have Node.js installed. Then, install all required packages using:
 
