@@ -7,7 +7,7 @@ Follow these steps to run the Weather Dashboard locally on your machine:
 1️⃣ Clone the Repository
 First, download the project files by cloning the GitHub repository:
 
-git clone https://github.com/your-username/weather-dashboard.git
+git clone https://github.com/ritikgupta2605/Weather.git
 
 Navigate to the project directory:
 
